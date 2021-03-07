@@ -22,3 +22,4 @@ after_success:
   - docker push a5edevopstuts/multi-nginx
   - docker push a5edevopstuts/multi-server
   - docker push a5edevopstuts/multi-worker
+
